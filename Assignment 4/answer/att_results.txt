@@ -1,67 +1,67 @@
-image: att_faces/s1/2.pgm
+image: att_faces/s1/1.pgm
+result: wrong, got 16
+
+image: att_faces/s1/4.pgm
 result: correct
 
-image: att_faces/s1/3.pgm
-result: wrong, got 32
-
-image: att_faces/s1/7.pgm
+image: att_faces/s1/6.pgm
 result: correct
 
 image: att_faces/s1/8.pgm
 result: correct
 
-image: att_faces/s2/1.pgm
-result: correct
-
-image: att_faces/s2/4.pgm
+image: att_faces/s2/2.pgm
 result: correct
 
 image: att_faces/s2/5.pgm
 result: correct
 
-image: att_faces/s2/8.pgm
+image: att_faces/s2/6.pgm
+result: correct
+
+image: att_faces/s2/10.pgm
+result: correct
+
+image: att_faces/s3/2.pgm
 result: correct
 
 image: att_faces/s3/3.pgm
 result: correct
 
-image: att_faces/s3/6.pgm
+image: att_faces/s3/7.pgm
 result: correct
 
-image: att_faces/s3/9.pgm
-result: wrong, got  4
-
-image: att_faces/s3/10.pgm
-result: wrong, got  4
-
-image: att_faces/s4/2.pgm
+image: att_faces/s3/8.pgm
 result: correct
 
 image: att_faces/s4/4.pgm
 result: correct
 
-image: att_faces/s4/6.pgm
-result: wrong, got 35
+image: att_faces/s4/7.pgm
+result: wrong, got  3
 
-image: att_faces/s4/8.pgm
+image: att_faces/s4/9.pgm
+result: correct
+
+image: att_faces/s4/10.pgm
 result: correct
 
 image: att_faces/s5/1.pgm
 result: correct
 
-image: att_faces/s5/4.pgm
+image: att_faces/s5/6.pgm
 result: correct
 
-image: att_faces/s5/6.pgm
+image: att_faces/s5/9.pgm
 result: correct
 
 image: att_faces/s5/10.pgm
 result: correct
 
-image: att_faces/s6/3.pgm
+image: att_faces/s6/1.pgm
 result: correct
 
-image: att_faces/s6/4.pgm
+image: att_faces/s6/5.pgm
 result: correct
 
 image: att_faces/s6/6.pgm
@@ -70,19 +70,19 @@ result: correct
 image: att_faces/s6/9.pgm
 result: correct
 
-image: att_faces/s7/4.pgm
+image: att_faces/s7/3.pgm
 result: correct
 
-image: att_faces/s7/8.pgm
+image: att_faces/s7/5.pgm
 result: correct
 
-image: att_faces/s7/9.pgm
+image: att_faces/s7/7.pgm
 result: correct
 
 image: att_faces/s7/10.pgm
 result: correct
 
-image: att_faces/s8/4.pgm
+image: att_faces/s8/3.pgm
 result: correct
 
 image: att_faces/s8/7.pgm
@@ -94,50 +94,50 @@ result: correct
 image: att_faces/s8/9.pgm
 result: correct
 
-image: att_faces/s9/2.pgm
-result: correct
-
-image: att_faces/s9/3.pgm
-result: correct
-
 image: att_faces/s9/4.pgm
 result: correct
 
-image: att_faces/s9/8.pgm
+image: att_faces/s9/5.pgm
 result: correct
 
-image: att_faces/s10/3.pgm
+image: att_faces/s9/7.pgm
 result: correct
 
-image: att_faces/s10/6.pgm
+image: att_faces/s9/10.pgm
 result: correct
 
-image: att_faces/s10/9.pgm
+image: att_faces/s10/1.pgm
+result: correct
+
+image: att_faces/s10/5.pgm
+result: correct
+
+image: att_faces/s10/7.pgm
 result: correct
 
 image: att_faces/s10/10.pgm
-result: wrong, got  8
+result: wrong, got  3
 
-image: att_faces/s11/1.pgm
+image: att_faces/s11/2.pgm
 result: correct
 
-image: att_faces/s11/4.pgm
-result: wrong, got  2
+image: att_faces/s11/3.pgm
+result: correct
 
-image: att_faces/s11/5.pgm
-result: wrong, got  2
+image: att_faces/s11/6.pgm
+result: correct
 
-image: att_faces/s11/7.pgm
+image: att_faces/s11/10.pgm
+result: correct
+
+image: att_faces/s12/1.pgm
 result: correct
 
 image: att_faces/s12/2.pgm
 result: correct
 
 image: att_faces/s12/3.pgm
-result: correct
-
-image: att_faces/s12/4.pgm
-result: correct
+result: wrong, got 26
 
 image: att_faces/s12/8.pgm
 result: correct
@@ -145,67 +145,67 @@ result: correct
 image: att_faces/s13/1.pgm
 result: correct
 
+image: att_faces/s13/3.pgm
+result: correct
+
 image: att_faces/s13/5.pgm
 result: correct
 
-image: att_faces/s13/8.pgm
+image: att_faces/s13/10.pgm
 result: correct
 
-image: att_faces/s13/9.pgm
+image: att_faces/s14/3.pgm
 result: correct
 
 image: att_faces/s14/5.pgm
 result: correct
 
-image: att_faces/s14/7.pgm
+image: att_faces/s14/6.pgm
 result: correct
 
 image: att_faces/s14/8.pgm
 result: correct
 
-image: att_faces/s14/9.pgm
-result: correct
-
 image: att_faces/s15/1.pgm
 result: correct
 
-image: att_faces/s15/3.pgm
+image: att_faces/s15/2.pgm
 result: correct
 
-image: att_faces/s15/7.pgm
+image: att_faces/s15/6.pgm
 result: correct
 
-image: att_faces/s15/8.pgm
+image: att_faces/s15/9.pgm
 result: correct
 
 image: att_faces/s16/1.pgm
 result: correct
 
-image: att_faces/s16/3.pgm
-result: correct
+image: att_faces/s16/4.pgm
+result: wrong, got  1
 
-image: att_faces/s16/9.pgm
-result: correct
+image: att_faces/s16/5.pgm
+result: wrong, got  1
 
-image: att_faces/s16/10.pgm
+image: att_faces/s16/7.pgm
 result: correct
 
 image: att_faces/s17/2.pgm
 result: correct
 
 image: att_faces/s17/3.pgm
-result: wrong, got  4
+result: correct
 
-image: att_faces/s17/4.pgm
-result: wrong, got 36
+image: att_faces/s17/7.pgm
+result: correct
 
 image: att_faces/s17/9.pgm
 result: correct
 
-image: att_faces/s18/3.pgm
+image: att_faces/s18/1.pgm
 result: correct
 
-image: att_faces/s18/4.pgm
+image: att_faces/s18/5.pgm
 result: correct
 
 image: att_faces/s18/7.pgm
@@ -214,17 +214,17 @@ result: correct
 image: att_faces/s18/10.pgm
 result: correct
 
-image: att_faces/s19/3.pgm
+image: att_faces/s19/2.pgm
 result: correct
 
 image: att_faces/s19/5.pgm
 result: correct
 
-image: att_faces/s19/8.pgm
+image: att_faces/s19/7.pgm
 result: correct
 
 image: att_faces/s19/9.pgm
-result: wrong, got  2
+result: wrong, got 27
 
 image: att_faces/s20/1.pgm
 result: correct
@@ -238,13 +238,13 @@ result: wrong, got 29
 image: att_faces/s20/7.pgm
 result: correct
 
-image: att_faces/s21/1.pgm
-result: correct
-
-image: att_faces/s21/3.pgm
-result: correct
-
 image: att_faces/s21/4.pgm
+result: correct
+
+image: att_faces/s21/5.pgm
+result: correct
+
+image: att_faces/s21/7.pgm
 result: correct
 
 image: att_faces/s21/9.pgm
@@ -259,37 +259,37 @@ result: correct
 image: att_faces/s22/4.pgm
 result: correct
 
-image: att_faces/s22/6.pgm
+image: att_faces/s22/5.pgm
 result: correct
 
 image: att_faces/s23/2.pgm
 result: correct
 
-image: att_faces/s23/4.pgm
+image: att_faces/s23/3.pgm
 result: correct
 
-image: att_faces/s23/6.pgm
+image: att_faces/s23/5.pgm
 result: correct
 
 image: att_faces/s23/9.pgm
 result: correct
 
-image: att_faces/s24/4.pgm
+image: att_faces/s24/1.pgm
 result: correct
 
-image: att_faces/s24/5.pgm
-result: wrong, got 15
-
-image: att_faces/s24/7.pgm
+image: att_faces/s24/3.pgm
 result: correct
 
-image: att_faces/s24/10.pgm
+image: att_faces/s24/6.pgm
 result: correct
 
-image: att_faces/s25/3.pgm
+image: att_faces/s24/8.pgm
 result: correct
 
-image: att_faces/s25/6.pgm
+image: att_faces/s25/4.pgm
+result: correct
+
+image: att_faces/s25/7.pgm
 result: correct
 
 image: att_faces/s25/9.pgm
@@ -298,23 +298,23 @@ result: correct
 image: att_faces/s25/10.pgm
 result: correct
 
-image: att_faces/s26/2.pgm
-result: correct
-
-image: att_faces/s26/3.pgm
-result: correct
-
-image: att_faces/s26/7.pgm
+image: att_faces/s26/6.pgm
 result: correct
 
 image: att_faces/s26/8.pgm
 result: correct
 
-image: att_faces/s27/5.pgm
+image: att_faces/s26/9.pgm
+result: wrong, got 12
+
+image: att_faces/s26/10.pgm
+result: correct
+
+image: att_faces/s27/6.pgm
 result: correct
 
 image: att_faces/s27/7.pgm
-result: correct
+result: wrong, got 11
 
 image: att_faces/s27/8.pgm
 result: correct
@@ -325,16 +325,13 @@ result: correct
 image: att_faces/s28/1.pgm
 result: correct
 
-image: att_faces/s28/8.pgm
-result: wrong, got 37
-
-image: att_faces/s28/9.pgm
+image: att_faces/s28/3.pgm
 result: correct
 
-image: att_faces/s28/10.pgm
+image: att_faces/s28/4.pgm
 result: correct
 
-image: att_faces/s29/1.pgm
+image: att_faces/s28/5.pgm
 result: correct
 
 image: att_faces/s29/2.pgm
@@ -343,19 +340,22 @@ result: correct
 image: att_faces/s29/4.pgm
 result: correct
 
-image: att_faces/s29/6.pgm
+image: att_faces/s29/5.pgm
 result: correct
 
-image: att_faces/s30/2.pgm
+image: att_faces/s29/10.pgm
 result: correct
 
-image: att_faces/s30/6.pgm
+image: att_faces/s30/3.pgm
 result: correct
 
-image: att_faces/s30/8.pgm
+image: att_faces/s30/4.pgm
 result: correct
 
-image: att_faces/s30/10.pgm
+image: att_faces/s30/5.pgm
+result: correct
+
+image: att_faces/s30/9.pgm
 result: correct
 
 image: att_faces/s31/1.pgm
@@ -364,85 +364,82 @@ result: correct
 image: att_faces/s31/2.pgm
 result: correct
 
-image: att_faces/s31/5.pgm
+image: att_faces/s31/6.pgm
 result: correct
 
-image: att_faces/s31/6.pgm
+image: att_faces/s31/9.pgm
 result: correct
 
 image: att_faces/s32/2.pgm
 result: correct
 
-image: att_faces/s32/5.pgm
+image: att_faces/s32/4.pgm
 result: correct
 
-image: att_faces/s32/6.pgm
+image: att_faces/s32/7.pgm
+result: wrong, got 15
+
+image: att_faces/s32/10.pgm
 result: correct
 
-image: att_faces/s32/9.pgm
+image: att_faces/s33/2.pgm
 result: correct
 
-image: att_faces/s33/1.pgm
-result: correct
-
-image: att_faces/s33/5.pgm
+image: att_faces/s33/3.pgm
 result: correct
 
 image: att_faces/s33/6.pgm
-result: wrong, got 21
-
-image: att_faces/s33/9.pgm
 result: correct
 
-image: att_faces/s34/1.pgm
+image: att_faces/s33/10.pgm
 result: correct
 
-image: att_faces/s34/3.pgm
+image: att_faces/s34/5.pgm
 result: correct
 
-image: att_faces/s34/7.pgm
+image: att_faces/s34/6.pgm
 result: correct
 
-image: att_faces/s34/9.pgm
+image: att_faces/s34/8.pgm
 result: correct
 
-image: att_faces/s35/1.pgm
+image: att_faces/s34/10.pgm
+result: correct
+
+image: att_faces/s35/3.pgm
 result: wrong, got 15
 
-image: att_faces/s35/5.pgm
+image: att_faces/s35/4.pgm
+result: correct
+
+image: att_faces/s35/6.pgm
 result: correct
 
 image: att_faces/s35/7.pgm
-result: correct
-
-image: att_faces/s35/8.pgm
-result: wrong, got 25
-
-image: att_faces/s36/1.pgm
-result: correct
+result: wrong, got 26
 
 image: att_faces/s36/2.pgm
 result: wrong, got 17
 
-image: att_faces/s36/7.pgm
+image: att_faces/s36/4.pgm
 result: correct
 
-image: att_faces/s36/8.pgm
+image: att_faces/s36/5.pgm
+result: correct
+
+image: att_faces/s36/6.pgm
+result: correct
+
+image: att_faces/s37/2.pgm
 result: correct
 
 image: att_faces/s37/3.pgm
 result: correct
 
-image: att_faces/s37/4.pgm
+image: att_faces/s37/9.pgm
 result: correct
 
-image: att_faces/s37/5.pgm
-result: correct
-
-image: att_faces/s37/7.pgm
-result: correct
-
-image: att_faces/s38/1.pgm
+image: att_faces/s37/10.pgm
 result: correct
 
 image: att_faces/s38/2.pgm
@@ -451,7 +448,10 @@ result: correct
 image: att_faces/s38/3.pgm
 result: correct
 
-image: att_faces/s38/4.pgm
+image: att_faces/s38/8.pgm
+result: wrong, got 23
+
+image: att_faces/s38/9.pgm
 result: correct
 
 image: att_faces/s39/1.pgm
@@ -460,22 +460,22 @@ result: correct
 image: att_faces/s39/3.pgm
 result: correct
 
-image: att_faces/s39/6.pgm
+image: att_faces/s39/5.pgm
 result: correct
 
-image: att_faces/s39/9.pgm
+image: att_faces/s39/10.pgm
 result: correct
 
 image: att_faces/s40/1.pgm
 result: correct
 
-image: att_faces/s40/4.pgm
-result: wrong, got  5
+image: att_faces/s40/2.pgm
+result: correct
 
-image: att_faces/s40/8.pgm
+image: att_faces/s40/7.pgm
 result: correct
 
 image: att_faces/s40/10.pgm
 result: correct
 
-Correct: 88.12
+Correct: 90.00

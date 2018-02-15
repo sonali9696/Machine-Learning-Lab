@@ -1,0 +1,7 @@
+In both PCA.png and LDA.png, the value of k best features or m best features respectively is
+k = m = (range of 1 to 100 with a step size of 15).
+
+By comparing the plots, we find that LDA is better. In both these plots, we have taken distance by euclidean distance calculation.
+
+
+
