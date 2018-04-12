@@ -210,7 +210,7 @@ if __name__ == "__main__":
 
 	for face_id in xrange(1, people_total + 1):
 		for test_id in xrange(1, 11):
-			if (test_id in training_ids[face_id-1]) == False:  #selecting left over 4 faces
+			if (test_id not in training_ids[face_id-1]) == False:  #selecting left over 4 faces
 				path_to_img = os.path.join(faces_dir, 's' + str(face_id), str(test_id) + '.pgm')
 				img = cv2.imread(path_to_img, 0)
 				img_col = np.array(img, dtype='float64').flatten() #make it 1*mn
